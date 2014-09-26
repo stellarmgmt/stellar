@@ -5,28 +5,24 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>5747C003-3A9B-4E93-A05E-3D0C9F2EF3FA</string>
+	<string>164F7378-4776-4A17-8008-9C9490DA4AB2</string>
 	<key>IDESourceControlProjectName</key>
-	<string>TipCalculator</string>
+	<string>Movies</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>799D00CC21C8B3F4BC3A2960B04BC74961F5AAEC</key>
 		<string>https://github.com/stellarmgmt/stellar.git</string>
 		<key>95877B653F4D5C7642D3BA026C508FDD750DF12B</key>
 		<string>https://github.com/stellarmgmt/tip.git</string>
-		<key>FFE475B3-AAA4-4FE5-8B74-04C4CF5CDBF6</key>
-		<string>https://github.com/stellarmgmt/stellar.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>TipCalculator/TipCalculator.xcodeproj</string>
+	<string>Movies/Movies.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>799D00CC21C8B3F4BC3A2960B04BC74961F5AAEC</key>
 		<string>../../..</string>
 		<key>95877B653F4D5C7642D3BA026C508FDD750DF12B</key>
 		<string>../../../..</string>
-		<key>FFE475B3-AAA4-4FE5-8B74-04C4CF5CDBF6</key>
-		<string>../../../../TipCalculator</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/stellarmgmt/stellar.git</string>
@@ -51,14 +47,6 @@
 			<string>799D00CC21C8B3F4BC3A2960B04BC74961F5AAEC</string>
 			<key>IDESourceControlWCCName</key>
 			<string>stellar</string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>FFE475B3-AAA4-4FE5-8B74-04C4CF5CDBF6</string>
-			<key>IDESourceControlWCCName</key>
-			<string>TipCalculator</string>
 		</dict>
 	</array>
 </dict>
