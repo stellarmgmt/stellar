@@ -8,6 +8,7 @@
 
 #import "AppDelegate.h"
 #import "TipViewController.h"
+#import "UsersViewController.h"
 
 @implementation AppDelegate
 
@@ -16,9 +17,15 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
     
-    TipViewController *vc = [[TipViewController alloc] init];
-    UINavigationController *nvc = [[UINavigationController alloc] initWithRootViewController:vc];
-    self.window.rootViewController = nvc;
+//    TipViewController *vc = [[TipViewController alloc] init];
+//    UINavigationController *nvc = [[UINavigationController alloc] initWithRootViewController:vc];
+    
+    self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
+    UsersViewController *usersViewController = [[UsersViewController alloc]init];
+    
+    UINavigationController *navigationController =[[UINavigationController alloc]initWithRootViewController:usersViewController];
+    
+    self.window.rootViewController = navigationController;
     
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
